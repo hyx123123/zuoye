@@ -1,0 +1,6 @@
+﻿  主.c
+D:\CCC\Project2\主.c(5,34): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  dmin.c
+  dmax.c
+  正在生成代码...
+  Project2.vcxproj -> D:\CCC\Project2\x64\Debug\Project2.exe
